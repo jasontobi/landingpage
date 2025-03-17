@@ -4,5 +4,27 @@ body {
 
 .header {
     background-color: #1F2937;
-    display: flex
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+}
+
+.links {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding-right: 25px;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
 }
