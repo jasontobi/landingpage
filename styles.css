@@ -196,3 +196,17 @@ h2 {
     padding: 4px 8px;
     width: 50%;
 }
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    height: fit-content;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p{
+    margin: 0px 10px;
+}
